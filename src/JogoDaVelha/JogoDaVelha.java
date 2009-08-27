@@ -4,6 +4,10 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
+/**
+ *
+ * @author Flavio Augusto Siodoni Ximenes
+ */
 public class JogoDaVelha {
 
     private int matriz[][] = new int[3][3];
